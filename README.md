@@ -10,7 +10,7 @@ Esta API permite la gestión del módulo de ventas, incluyendo la administració
 
 # Clonar repositorio
 
-git clone https://github.com/usuario/ventas_api.git
+git clone https://github.com/neirafran223/API-ventas.git
 cd ventas_api
 
 # Levantar con Docker
